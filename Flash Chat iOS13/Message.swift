@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+struct Message {
+    let Sender: String
+    let body: String
+    
+}
